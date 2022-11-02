@@ -1,0 +1,1188 @@
+1667123900047	geckodriver	INFO	Listening on 127.0.0.1:52134
+1667123903506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileo5MlC1"
+1667123911031	Marionette	INFO	Marionette enabled
+1667123911240	Marionette	INFO	Listening on port 52156
+Read port: 52156
+Read port: 52156
+Read port: 52156
+Read port: 52156
+Read port: 52156
+1667123917523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileo5MlC1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1667123960981	Marionette	INFO	Stopped listening on port 52156
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 28832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 28832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667124078123	geckodriver	INFO	Listening on 127.0.0.1:52453
+1667124080975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileDirFEH"
+1667124084042	Marionette	INFO	Marionette enabled
+1667124084050	Marionette	INFO	Listening on port 52465
+Read port: 52465
+Read port: 52465
+1667124085681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileDirFEH\\search.json.mozlz4", (void 0)))
+1667124118931	Marionette	INFO	Stopped listening on port 52465
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=1d974b89900"
+[Parent 26124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+[Parent 26124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+[Parent 26124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667143281745	geckodriver	INFO	Listening on 127.0.0.1:53215
+1667143284871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileJoo4Si"
+1667143291229	Marionette	INFO	Marionette enabled
+1667143291242	Marionette	INFO	Listening on port 53233
+Read port: 53233
+Read port: 53233
+Read port: 53233
+1667143294737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileJoo4Si\\search.json.mozlz4", (void 0)))
+1667143322644	Marionette	INFO	Stopped listening on port 53233
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 32712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667143474034	geckodriver	INFO	Listening on 127.0.0.1:53553
+1667143476952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile0OM1Ux"
+1667143477920	Marionette	INFO	Marionette enabled
+1667143477930	Marionette	INFO	Listening on port 53565
+Read port: 53565
+1667143478606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile0OM1Ux\\search.json.mozlz4", (void 0)))
+1667143498948	Marionette	INFO	Stopped listening on port 53565
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 12680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667143859911	geckodriver	INFO	Listening on 127.0.0.1:54058
+1667143862497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilesJmMJQ"
+1667143868282	Marionette	INFO	Marionette enabled
+1667143868304	Marionette	INFO	Listening on port 54076
+Read port: 54076
+Read port: 54076
+Read port: 54076
+1667143871756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilesJmMJQ\\search.json.mozlz4", (void 0)))
+1667143923428	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667143936761	Marionette	INFO	Stopped listening on port 54076
+1667144103226	geckodriver	INFO	Listening on 127.0.0.1:54549
+1667144106025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1BJF3U"
+1667144109747	Marionette	INFO	Marionette enabled
+1667144109756	Marionette	INFO	Listening on port 54564
+Read port: 54564
+Read port: 54564
+1667144111490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1BJF3U\\search.json.mozlz4", (void 0)))
+[Parent 13360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667144181168	Marionette	INFO	Stopped listening on port 54564
+[Parent 13360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667150965143	geckodriver	INFO	Listening on 127.0.0.1:57300
+1667150968045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile43q7mo"
+1667150973613	Marionette	INFO	Marionette enabled
+1667150973631	Marionette	INFO	Listening on port 57318
+Read port: 57318
+Read port: 57318
+Read port: 57318
+Read port: 57318
+1667150978135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile43q7mo\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667151012467	Marionette	INFO	Stopped listening on port 57318
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 14416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667151109243	geckodriver	INFO	Listening on 127.0.0.1:57748
+1667151112297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile6KHIlb"
+1667151113128	Marionette	INFO	Marionette enabled
+1667151113137	Marionette	INFO	Listening on port 57760
+Read port: 57760
+1667151113794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile6KHIlb\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667151134842	Marionette	INFO	Stopped listening on port 57760
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 37520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667151314926	geckodriver	INFO	Listening on 127.0.0.1:58124
+1667151317955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilex9XAxV"
+1667151318657	Marionette	INFO	Marionette enabled
+1667151318667	Marionette	INFO	Listening on port 58136
+Read port: 58136
+1667151319602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilex9XAxV\\search.json.mozlz4", (void 0)))
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+1667151364344	Marionette	INFO	Stopped listening on port 58136
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 10532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667151402479	geckodriver	INFO	Listening on 127.0.0.1:58592
+1667151405504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile2g8NRx"
+1667151406222	Marionette	INFO	Marionette enabled
+1667151406233	Marionette	INFO	Listening on port 58604
+Read port: 58604
+1667151407141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile2g8NRx\\search.json.mozlz4", (void 0)))
+1667151424671	Marionette	INFO	Stopped listening on port 58604
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 1612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667151485470	geckodriver	INFO	Listening on 127.0.0.1:58870
+1667151488507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileKrVXRl"
+1667151489303	Marionette	INFO	Marionette enabled
+1667151489316	Marionette	INFO	Listening on port 58882
+Read port: 58882
+1667151490161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileKrVXRl\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667151515558	Marionette	INFO	Stopped listening on port 58882
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 38312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667151667725	geckodriver	INFO	Listening on 127.0.0.1:59291
+1667151670784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileFb8Bhz"
+1667151671472	Marionette	INFO	Marionette enabled
+1667151671483	Marionette	INFO	Listening on port 59303
+Read port: 59303
+1667151672410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileFb8Bhz\\search.json.mozlz4", (void 0)))
+1667151688368	Marionette	INFO	Stopped listening on port 59303
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 36316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667151727926	geckodriver	INFO	Listening on 127.0.0.1:59574
+1667151730959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1VIAS0"
+1667151731601	Marionette	INFO	Marionette enabled
+1667151731612	Marionette	INFO	Listening on port 59586
+Read port: 59586
+1667151732111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1VIAS0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667151751205	Marionette	INFO	Stopped listening on port 59586
+1667153570460	geckodriver	INFO	Listening on 127.0.0.1:60185
+1667153573464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileiEr9VJ"
+1667153574433	Marionette	INFO	Marionette enabled
+1667153574450	Marionette	INFO	Listening on port 60197
+Read port: 60197
+1667153575330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileiEr9VJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667153595277	Marionette	INFO	Stopped listening on port 60197
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 33000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667189457252	geckodriver	INFO	Listening on 127.0.0.1:60758
+1667189460292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile14WZZl"
+1667189462480	Marionette	INFO	Marionette enabled
+1667189462487	Marionette	INFO	Listening on port 60770
+Read port: 60770
+1667189462903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile14WZZl\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667189506333	Marionette	INFO	Stopped listening on port 60770
+[Parent 38000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667192144587	geckodriver	INFO	Listening on 127.0.0.1:61707
+1667192147511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilePYw02E"
+1667192154371	Marionette	INFO	Marionette enabled
+1667192154456	Marionette	INFO	Listening on port 61720
+Read port: 61720
+Read port: 61720
+Read port: 61720
+Read port: 61720
+Read port: 61720
+Read port: 61720
+1667192160789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilePYw02E\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667192213282	Marionette	INFO	Stopped listening on port 61720
+[Parent 22696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1667193496571	geckodriver	INFO	Listening on 127.0.0.1:62306
+1667193499818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofiley79GVL"
+1667194266420	geckodriver	INFO	Listening on 127.0.0.1:62740
+1667194270054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileo6Iyh7"
+1667194275830	Marionette	INFO	Marionette enabled
+1667194275838	Marionette	INFO	Listening on port 62756
+Read port: 62756
+Read port: 62756
+Read port: 62756
+Read port: 62756
+Read port: 62756
+Read port: 62756
+1667194281950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667194441020	geckodriver	INFO	Listening on 127.0.0.1:62940
+1667194444071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileiWo9pb"
+1667194444858	Marionette	INFO	Marionette enabled
+1667194444863	Marionette	INFO	Listening on port 62953
+Read port: 62953
+1667194445420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileiWo9pb\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667194481226	Marionette	INFO	Stopped listening on port 62953
+1667194648737	geckodriver	INFO	Listening on 127.0.0.1:63536
+1667194651754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileEcva6n"
+1667194652751	Marionette	INFO	Marionette enabled
+1667194652756	Marionette	INFO	Listening on port 63550
+Read port: 63550
+1667194653355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667207626065	geckodriver	INFO	Listening on 127.0.0.1:51351
+1667207629013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile4PUA3B"
+1667207633551	Marionette	INFO	Marionette enabled
+1667207633574	Marionette	INFO	Listening on port 51363
+Read port: 51363
+Read port: 51363
+Read port: 51363
+1667207636605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667207837590	geckodriver	INFO	Listening on 127.0.0.1:51499
+1667207840550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile2Kc5Jj"
+1667207841352	Marionette	INFO	Marionette enabled
+1667207841359	Marionette	INFO	Listening on port 51511
+Read port: 51511
+1667207842111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667208022607	geckodriver	INFO	Listening on 127.0.0.1:51672
+1667208025659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileyasAMv"
+1667208026636	Marionette	INFO	Marionette enabled
+1667208026648	Marionette	INFO	Listening on port 51690
+Read port: 51690
+1667208027547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667208369745	geckodriver	INFO	Listening on 127.0.0.1:51876
+1667208372768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileHojYkz"
+1667208373519	Marionette	INFO	Marionette enabled
+1667208373529	Marionette	INFO	Listening on port 51888
+Read port: 51888
+1667208373983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667209057829	geckodriver	INFO	Listening on 127.0.0.1:52276
+1667209060757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileugmw2s"
+1667209065303	Marionette	INFO	Marionette enabled
+1667209065323	Marionette	INFO	Listening on port 52288
+Read port: 52288
+Read port: 52288
+1667209067585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileugmw2s\\search.json.mozlz4", (void 0)))
+1667209153689	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667209171288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667209172998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667209183184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667209184534	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667209214811	Marionette	INFO	Stopped listening on port 52288
+[Parent 18812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667209646961	geckodriver	INFO	Listening on 127.0.0.1:52990
+1667209649966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileBaXEAY"
+1667209655155	Marionette	INFO	Marionette enabled
+1667209655172	Marionette	INFO	Listening on port 53002
+Read port: 53002
+Read port: 53002
+1667209656930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667209838703	geckodriver	INFO	Listening on 127.0.0.1:53111
+1667209841727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilexX4pB9"
+1667209842832	Marionette	INFO	Marionette enabled
+1667209842842	Marionette	INFO	Listening on port 53123
+Read port: 53123
+1667209843400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667210014864	geckodriver	INFO	Listening on 127.0.0.1:53227
+1667210017892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileT3YC0w"
+1667210018949	Marionette	INFO	Marionette enabled
+1667210018961	Marionette	INFO	Listening on port 53239
+Read port: 53239
+1667210019696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667210107892	geckodriver	INFO	Listening on 127.0.0.1:53326
+1667210110897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile4BHXvG"
+1667210111750	Marionette	INFO	Marionette enabled
+1667210111760	Marionette	INFO	Listening on port 53338
+Read port: 53338
+1667210112315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile4BHXvG\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667210166221	Marionette	INFO	Stopped listening on port 53338
+[Parent 33372, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667210281999	geckodriver	INFO	Listening on 127.0.0.1:53838
+1667210285057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile0uTyjH"
+1667210287545	Marionette	INFO	Marionette enabled
+1667210287562	Marionette	INFO	Listening on port 53852
+Read port: 53852
+1667210288247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667210702894	geckodriver	INFO	Listening on 127.0.0.1:54003
+1667210705971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile5WGjxx"
+1667210708258	Marionette	INFO	Marionette enabled
+1667210708274	Marionette	INFO	Listening on port 54015
+Read port: 54015
+1667210708889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667211545235	geckodriver	INFO	Listening on 127.0.0.1:54259
+1667211548270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile9XHsDa"
+1667211634107	geckodriver	INFO	Listening on 127.0.0.1:54385
+1667211637152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileUvdteI"
+1667211641467	Marionette	INFO	Marionette enabled
+1667211641501	Marionette	INFO	Listening on port 54397
+Read port: 54397
+Read port: 54397
+Read port: 54397
+1667211646449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667211871196	geckodriver	INFO	Listening on 127.0.0.1:54510
+1667211874210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileTWcMDT"
+1667211875140	Marionette	INFO	Marionette enabled
+1667211875154	Marionette	INFO	Listening on port 54522
+Read port: 54522
+1667211875889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileTWcMDT\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667211951620	Marionette	INFO	Stopped listening on port 54522
+[Parent 34420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667212310645	geckodriver	INFO	Listening on 127.0.0.1:55093
+1667212313622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile2b0toJ"
+1667212318822	Marionette	INFO	Marionette enabled
+1667212318842	Marionette	INFO	Listening on port 55106
+Read port: 55106
+Read port: 55106
+Read port: 55106
+1667212439529	geckodriver	INFO	Listening on 127.0.0.1:55201
+1667212442571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileKJjwvc"
+1667212443450	Marionette	INFO	Marionette enabled
+1667212443462	Marionette	INFO	Listening on port 55213
+Read port: 55213
+1667212446516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667212566594	geckodriver	INFO	Listening on 127.0.0.1:55317
+1667212569631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileyCJOgA"
+1667212570540	Marionette	INFO	Marionette enabled
+1667212570551	Marionette	INFO	Listening on port 55329
+Read port: 55329
+1667212571021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667212741517	geckodriver	INFO	Listening on 127.0.0.1:55437
+1667212744505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilevYpgP6"
+1667212745320	Marionette	INFO	Marionette enabled
+1667212745331	Marionette	INFO	Listening on port 55449
+Read port: 55449
+1667212745861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667212967272	geckodriver	INFO	Listening on 127.0.0.1:55558
+1667212970351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1re1tz"
+1667212972738	Marionette	INFO	Marionette enabled
+1667212972749	Marionette	INFO	Listening on port 55570
+Read port: 55570
+1667212973852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667215017913	geckodriver	INFO	Listening on 127.0.0.1:55780
+1667215020757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile2f46wS"
+1667215161539	geckodriver	INFO	Listening on 127.0.0.1:55921
+1667215164400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilevb3Tfz"
+1667215278002	geckodriver	INFO	Listening on 127.0.0.1:56029
+1667215281001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileGsplhj"
+1667215286871	Marionette	INFO	Marionette enabled
+1667215286899	Marionette	INFO	Listening on port 56047
+Read port: 56047
+Read port: 56047
+Read port: 56047
+Read port: 56047
+1667215292476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileGsplhj\\search.json.mozlz4", (void 0)))
+[Parent 1768, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+1667215369421	Marionette	INFO	Stopped listening on port 56047
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 1768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667215653568	geckodriver	INFO	Listening on 127.0.0.1:56627
+1667215656216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileXkbtMf"
+1667215661088	Marionette	INFO	Marionette enabled
+1667215661125	Marionette	INFO	Listening on port 56639
+Read port: 56639
+Read port: 56639
+1667215662737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileXkbtMf\\search.json.mozlz4", (void 0)))
+[Parent 38592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667215766419	Marionette	INFO	Stopped listening on port 56639
+[Parent 38592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 38592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 38592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 38592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667216028044	geckodriver	INFO	Listening on 127.0.0.1:57329
+1667216030990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileXVjKbJ"
+1667216032479	Marionette	INFO	Marionette enabled
+1667216032490	Marionette	INFO	Listening on port 57343
+Read port: 57343
+1667216033336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileXVjKbJ\\search.json.mozlz4", (void 0)))
+1667216040055	Marionette	INFO	Stopped listening on port 57343
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1667216186767	geckodriver	INFO	Listening on 127.0.0.1:57510
+1667216189785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileggose0"
+1667216190897	Marionette	INFO	Marionette enabled
+1667216190906	Marionette	INFO	Listening on port 57522
+Read port: 57522
+1667216191852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileggose0\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667216222833	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667216282287	Marionette	INFO	Stopped listening on port 57522
+[Parent 18088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667216473334	geckodriver	INFO	Listening on 127.0.0.1:58002
+1667216476342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileGuNPw4"
+1667216477243	Marionette	INFO	Marionette enabled
+1667216477254	Marionette	INFO	Listening on port 58014
+Read port: 58014
+1667216478102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileGuNPw4\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667216580404	Marionette	INFO	Stopped listening on port 58014
+[Parent 23784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667216785257	geckodriver	INFO	Listening on 127.0.0.1:58546
+1667216788245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileYzMmwM"
+1667216790786	Marionette	INFO	Marionette enabled
+1667216790797	Marionette	INFO	Listening on port 58562
+Read port: 58562
+1667216791464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileYzMmwM\\search.json.mozlz4", (void 0)))
+1667216823046	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667216825037	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Jav1667218620067	Marionette	INFO	Stopped listening on port 59031
+tic/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+[Parent 34344, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f1667218617298	Marionette	INFO	Stopped listening on port 59394
+ps://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667218611656	Marionette	INFO	Stopped listening on port 58562
+[Parent 34344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667217854899	Marionette	INFO	Stopped listening on port 60869
+[Parent 36200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667218095244	geckodriver	INFO	Listening on 127.0.0.1:61578
+1667218098030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileIYY1MV"
+1667218103837	Marionette	INFO	Marionette enabled
+1667218103857	Marionette	INFO	Listening on port 61590
+Read port: 61590
+1667218104840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileIYY1MV\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667218180641	Marionette	INFO	Stopped listening on port 61590
+[Parent 36096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667219355094	geckodriver	INFO	Listening on 127.0.0.1:62711
+1667219358528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofiles9DiMW"
+1667219367050	Marionette	INFO	Marionette enabled
+1667219367063	Marionette	INFO	Listening on port 62729
+Read port: 62729
+Read port: 62729
+Read port: 62729
+Read port: 62729
+Read port: 62729
+Read port: 62729
+Read port: 62729
+1667219374642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofiles9DiMW\\search.json.mozlz4", (void 0)))
+1667219482568	Marionette	INFO	Stopped listening on port 62729
+[Parent 11928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+[Parent 11928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667232728722	geckodriver	INFO	Listening on 127.0.0.1:63163
+1667232731476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1fs5Is"
+1667232737772	Marionette	INFO	Marionette enabled
+1667232737783	Marionette	INFO	Listening on port 63181
+Read port: 63181
+Read port: 63181
+Read port: 63181
+1667232740553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1fs5Is\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667232840544	Marionette	INFO	Stopped listening on port 63181
+[Parent 24152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667233007401	geckodriver	INFO	Listening on 127.0.0.1:63785
+1667233010418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileMXSeWC"
+1667233011251	Marionette	INFO	Marionette enabled
+1667233011263	Marionette	INFO	Listening on port 63797
+Read port: 63797
+1667233012136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileMXSeWC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667233086407	Marionette	INFO	Stopped listening on port 63797
+[Parent 33384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 33384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 33384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667233214488	geckodriver	INFO	Listening on 127.0.0.1:64369
+1667233217548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1eqm7R"
+1667233220749	Marionette	INFO	Marionette enabled
+1667233220759	Marionette	INFO	Listening on port 64381
+Read port: 64381
+1667233221664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile1eqm7R\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667233303171	Marionette	INFO	Stopped listening on port 64381
+[Parent 27508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667233546371	geckodriver	INFO	Listening on 127.0.0.1:65104
+1667233549394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile6PLQGd"
+1667233550351	Marionette	INFO	Marionette enabled
+1667233550364	Marionette	INFO	Listening on port 65118
+Read port: 65118
+1667233551135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile6PLQGd\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1667234862966	Marionette	INFO	Stopped listening on port 65118
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile8pWpL4"
+1667233922312	Marionette	INFO	Marionette enabled
+1667233922332	Marionette	INFO	Listening on port 49220
+Read port: 49220
+1667233922569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile8pWpL4\\search.json.mozlz4", (void 0)))
+1667233936829	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+[Parent 42572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667234008096	Marionette	INFO	Stopped listening on port 49220
+[Parent 42572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667234154758	geckodriver	INFO	Listening on 127.0.0.1:50135
+1667234157766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileTAoQrZ"
+1667234161612	Marionette	INFO	Marionette enabled
+1667234161623	Marionette	INFO	Listening on port 50147
+Read port: 50147
+1667234161899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileTAoQrZ\\search.json.mozlz4", (void 0)))
+1667234172980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667234178807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667234238099	Marionette	INFO	Stopped listening on port 50147
+[Parent 40168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667234641544	geckodriver	INFO	Listening on 127.0.0.1:50954
+1667234644593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilemBsZDI"
+1667234645580	Marionette	INFO	Marionette enabled
+1667234645591	Marionette	INFO	Listening on port 50966
+Read port: 50966
+1667234645866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilemBsZDI\\search.json.mozlz4", (void 0)))
+1667234855015	Marionette	INFO	Stopped listening on port 50966
+Marionette	INFO	Marionette enabled
+1667234708650	Marionette	INFO	Listening on port 51064
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilesaOnFI\\search.json.mozlz4", (void 0)))
+1667234856711	Marionette	INFO	Stopped listening on port 51064
+Marionette	INFO	Marionette enabled
+1667234838310	Marionette	INFO	Listening on port 51186
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileFfhhIl\\search.json.mozlz4", (void 0)))
+1667234860686	Marionette	INFO	Stopped listening on port 51186
+1667234997335	geckodriver	INFO	Listening on 127.0.0.1:51476
+1667235000516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilex3x9eH"
+1667235003988	Marionette	INFO	Marionette enabled
+1667235003997	Marionette	INFO	Listening on port 51488
+Read port: 51488
+1667235005553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilex3x9eH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667235053391	Marionette	INFO	Stopped listening on port 51488
+1667235196230	geckodriver	INFO	Listening on 127.0.0.1:51842
+1667235199241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileMGBMBC"
+1667235201878	Marionette	INFO	Marionette enabled
+1667235201892	Marionette	INFO	Listening on port 51854
+Read port: 51854
+1667235202727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileMGBMBC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+1667235252373	Marionette	INFO	Stopped listening on port 51854
+1667235549373	geckodriver	INFO	Listening on 127.0.0.1:52500
+1667235552453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile5qvn7u"
+1667235555181	Marionette	INFO	Marionette enabled
+1667235555196	Marionette	INFO	Listening on port 52518
+Read port: 52518
+1667235555892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile5qvn7u\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.pharmeasy.in/diag-pwa/_next/static/chunks/8820.95a055c558840f20.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667235618273	Marionette	INFO	Stopped listening on port 52518
+[Parent 18592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667235753267	geckodriver	INFO	Listening on 127.0.0.1:52906
+1667235756250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilegbuAVQ"
+1667235757593	Marionette	INFO	Marionette enabled
+1667235757602	Marionette	INFO	Listening on port 52918
+Read port: 52918
+1667235758115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilegbuAVQ\\search.json.mozlz4", (void 0)))
+1667235776379	Marionette	INFO	Stopped listening on port 52918
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:57:30
+_submitPing@resource://gre/modules/EventPing.jsm:235:12
+shutdown@resource://gre/modules/EventPing.jsm:118:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:954:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1024:24
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:979:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1229:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1236:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1253:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:251:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:973:35
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1011:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1229:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1236:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1253:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:251:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:973:35
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1681:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:367:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1072:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:931:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:258:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:767:20
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:735:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:42
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1667236098532	geckodriver	INFO	Listening on 127.0.0.1:53066
+1667236101524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilesjd6b4"
+1667236104914	Marionette	INFO	Marionette enabled
+1667236104923	Marionette	INFO	Listening on port 53078
+Read port: 53078
+1667236105755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilesjd6b4\\search.json.mozlz4", (void 0)))
+1667236117644	Marionette	INFO	Stopped listening on port 53078
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 42960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667236318279	geckodriver	INFO	Listening on 127.0.0.1:53316
+1667236321323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilee3YcwZ"
+1667236324597	Marionette	INFO	Marionette enabled
+1667236324610	Marionette	INFO	Listening on port 53328
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilee3YcwZ\\search.json.mozlz4", (void 0)))
+1667236459193	Marionette	INFO	Stopped listening on port 53328
+[Parent 40340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+lezUYKP6\\search.json.mozlz4", (void 0)))
+1667236457894	Marionette	INFO	Stopped listening on port 53426
+console.error: "Could not load engine ddg@search.mozilla.org: Error: Data is not ready."
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:57:30
+_submitPing@resource://gre/modules/EventPing.jsm:235:12
+shutdown@resource://gre/modules/EventPing.jsm:118:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:954:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1024:24
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:979:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1229:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1236:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1253:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:251:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:973:35
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1011:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1229:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1236:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1253:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:251:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:973:35
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1681:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:367:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1072:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:931:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:258:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:767:20
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:735:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:42
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1667236590741	geckodriver	INFO	Listening on 127.0.0.1:53550
+1667236593777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileFzvJ3A"
+1667236596102	Marionette	INFO	Marionette enabled
+1667236596115	Marionette	INFO	Listening on port 53562
+Read port: 53562
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileFzvJ3A\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1667237642488	Marionette	INFO	Stopped listening on port 53562
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileznRQCS"
+1667236707910	Marionette	INFO	Marionette enabled
+1667236707924	Marionette	INFO	Listening on port 53835
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileznRQCS\\search.json.mozlz4", (void 0)))
+1667237639434	Marionette	INFO	Stopped listening on port 53835
+rionette	INFO	Listening on port 53961
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileRpRVx1\\search.json.mozlz4", (void 0)))
+1667237638463	Marionette	INFO	Stopped listening on port 53961
+[Parent 40184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+emoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilevZI8la\\search.json.mozlz4", (void 0)))
+1667237637219	Marionette	INFO	Stopped listening on port 54124
+[Parent 14344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+emoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile5ydYQs\\search.json.mozlz4", (void 0)))
+1667237636456	Marionette	INFO	Stopped listening on port 54292
+[Parent 23300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
