@@ -28,9 +28,9 @@ def select_package(context):
     time.sleep(10)
 
 
-# @then('user is able to click on select')
-# def click_select_patient(context):
-#     context.driver.find_element("xpath", '//button[.="Select"]').click()
+@then('user is able to click on select')
+def click_select_patient(context):
+    context.driver.find_element("xpath", '//button[.="Select"]').click()
 
 
 @then('user is able to select one patient')

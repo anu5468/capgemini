@@ -36,10 +36,12 @@ class HealthPage:
     def click_add_details(self):
         locator = self.health_locators["add_details"]
         self.driver.find_element(*locator).click()
+        time.sleep(2)
 
     def enter_mob_no(self, mobno):
         if isinstance(mobno, float):
-            mobno = int(mobno)
+            mobno = str(int(mobno))
+        assert len(mobno) == 10
         locator = self.health_locators["mob_no"]
         self.driver.find_element(*locator).send_keys(mobno)
 
@@ -67,11 +69,12 @@ class HealthPage:
         self.driver.find_element(*locator).send_keys(pname)
         time.sleep(2)
 
-    def enter_age(self, patage):
-        if isinstance(patage, float):
-            patage = int(patage)
+    def enter_age(self, pat_age):
+        if isinstance(pat_age, float):
+            pat_age = int(pat_age)
+        assert 110 >= pat_age > 0, "enter valid age"
         locator = self.health_locators["age"]
-        self.driver.find_element(*locator).send_keys(patage)
+        self.driver.find_element(*locator).send_keys(pat_age)
 
     def click_radio(self):
         locator = self.health_locators["radio"]
@@ -124,5 +127,3 @@ class HealthPage:
     def click_pay_cash(self):
         locator = self.health_locators["pay_cash"]
         self.driver.find_element(*locator).click()
-
-

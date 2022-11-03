@@ -5,7 +5,7 @@ Feature: HealthPackage
     When user is able to click on the labtest module
     Then user is able to click on the healthpackage module
     And user is able to select one package
-#    Then user is able to click on select
+    Then user is able to click on select
     Then user is able to select one patient
     And user is able to click on add patient details
 
@@ -32,9 +32,9 @@ Feature: HealthPackage
 
 
     Examples:
-      | number     |      | pname   |     | age |    | cname |   | pcode  |   | flatno |     | sname  |
-      | 8904245127 |      | ahayoy  |     | 24  |    |  anu  |   | 400001 |   | 4      |     | mgroad |
-#      | 9738735529 |      | shaian  |     | 43  |    | sanu  |   | 400001 |   | 4      |     | jcroad |
-#      | 9738735529 |      | shri    |     | 98  |    | anu   |   | 400001 |   | 5      |     | kcroad |
-#      | 9738735529 |      | kadhar  |     | -5  |    | sri   |   | 572222 |   | 65     |     | mtroad |
-#      | 911367641  |      | sohel   |     | 15  |    | sri   |   | 576909 |   | 87     |     | jkroad |
+      | number     |      | pname    |     | age |    | cname |   | pcode  |   | flatno |     | sname  |
+      | 9113676419 |      | suhas    |     | 24  |    |  anu  |   | 400001 |   | 4      |     | mgroad |
+      | 8970154665 |      | ajith    |     | 43  |    | sanju |   | 400001 |   | 4      |     | jcroad |
+      | 9113676419 |      | sourab   |     | 98  |    | anu   |   | 400001 |   | 5      |     | kcroad |
+      | 9113676419 |      | bharat   |     | -5  |    | sri   |   | 572222 |   | 65     |     | mtroad |
+      | 911367641  |      | chethan  |     | 15  |    | sri   |   | 576909 |   | 87     |     | jkroad |
