@@ -1,0 +1,117 @@
+1665644431840	geckodriver	INFO	Listening on 127.0.0.1:50130
+1665644434894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileznTEia"
+1665644435809	Marionette	INFO	Marionette enabled
+1665644435828	Marionette	INFO	Listening on port 50142
+Read port: 50142
+1665644436677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileznTEia\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665644446483	Marionette	INFO	Stopped listening on port 50142
+1665644448523	geckodriver	INFO	Listening on 127.0.0.1:50192
+1665644451533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile6RTRNb"
+1665644452448	Marionette	INFO	Marionette enabled
+1665644452459	Marionette	INFO	Listening on port 50204
+Read port: 50204
+1665644453127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofile6RTRNb\\search.json.mozlz4", (void 0)))
+1665644457290	Marionette	INFO	Stopped listening on port 50204
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1665644820105	geckodriver	INFO	Listening on 127.0.0.1:50377
+1665644823140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileMcBPwx"
+1665644823900	Marionette	INFO	Marionette enabled
+1665644823913	Marionette	INFO	Listening on port 50389
+Read port: 50389
+1665644824406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileMcBPwx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665644843817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1665644844582	Marionette	INFO	Stopped listening on port 50389
+[Parent 21004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665644846529	geckodriver	INFO	Listening on 127.0.0.1:50451
+1665644849451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilejql48y"
+1665644850431	Marionette	INFO	Marionette enabled
+1665644850446	Marionette	INFO	Listening on port 50463
+Read port: 50463
+1665644850984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilejql48y\\search.json.mozlz4", (void 0)))
+1665644854897	Marionette	INFO	Stopped listening on port 50463
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1665644857390	geckodriver	INFO	Listening on 127.0.0.1:50483
+1665644860419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilewvxFI9"
+1665644861123	Marionette	INFO	Marionette enabled
+1665644861135	Marionette	INFO	Listening on port 50495
+Read port: 50495
+1665644861634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilewvxFI9\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665644870073	Marionette	INFO	Stopped listening on port 50495
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665644870207	geckodriver	INFO	Listening on 127.0.0.1:50529
+1665644873380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilewKgSLW"
+1665644874256	Marionette	INFO	Marionette enabled
+1665644874270	Marionette	INFO	Listening on port 50541
+Read port: 50541
+1665644874706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilewKgSLW\\search.json.mozlz4", (void 0)))
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1665644879541	Marionette	INFO	Stopped listening on port 50541
+JavaScript error: chrome://remote/content/marionette/cert.js1665644882790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilert4Nig"
+1665644883312	Marionette	INFO	Marionette enabled
+1665644883322	Marionette	INFO	Listening on port 50567
+Read port: 50567
+1665644883718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofilert4Nig\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1665644888804	Marionette	INFOJavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+le" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileoqwCOO"
+1665644893284	Marionette	INFO	Marionette enabled
+1665644893294	Marionette	INFO	Listening on port 50600
+Read port: 50600
+1665644894123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileoqwCOO\\search.json.mozlz4", (void 0)))
+1665644900413	Marionette	INFO	Stopped listening on port 50600
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+g data"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+1665646371321	geckodriver	INFO	Listening on 127.0.0.1:51220
+1665646374354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileTeAQGM"
+1665646376613	Marionette	INFO	Marionette enabled
+1665646376625	Marionette	INFO	Listening on port 51232
+Read port: 51232
+1665646377451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665653515707	geckodriver	INFO	Listening on 127.0.0.1:63555
+1665653518694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileXMCdK3"
+1665653519835	Marionette	INFO	Marionette enabled
+1665653519849	Marionette	INFO	Listening on port 63569
+Read port: 63569
+1665653520348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anu\\AppData\\Local\\Temp\\rust_mozprofileXMCdK3\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665653532267	Marionette	INFO	Stopped listening on port 63569

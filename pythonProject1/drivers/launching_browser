@@ -1,0 +1,11 @@
+from selenium import webdriver
+
+#create instance of chrome browser
+c_path = R"C:\Users\Anu\PycharmProjects\pythonProject1\drivers\chromedriver.exe"
+c_driver = webdriver.Chrome(executable_path=c_path)
+print(c_driver)
+
+
+
+
+
